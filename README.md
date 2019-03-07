@@ -1,2 +1,2 @@
 # Java-Eclipse-Projects
-ONl
+Only Java Eclipse IDE project
